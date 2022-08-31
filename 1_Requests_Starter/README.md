@@ -1,3 +1,7 @@
+## I had to upgrade flask and flask_sqlalchemy:
+pip install --upgrade flask_sqlalchemy
+pip install --upgrade flask
+
 ## Local Development 
 The instructions below are meant for the local setup only. The classroom workspace is already set for your to start practicing. 
 
