@@ -1,3 +1,7 @@
+## I had to upgrade these libraries to be able to run the app:
+pip install --upgrade flask_sqlalchemy
+pip install --upgrade flask
+
 # Errors Lab
 
 Now that we have our endpoints, we need to make sure we send back formatted responses when we hit an error. **Pre-requisites and dependencies** are same as the ones explained in the [first exercise's starter code](https://github.com/udacity/nd0044-c2-API-Development-and-Documentation-exercises/blob/master/1_Requests_Starter/README.md)
